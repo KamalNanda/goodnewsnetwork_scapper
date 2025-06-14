@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "scraper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scrape_and_push_to_db.js"
   },
   "author": "",
   "license": "ISC",
